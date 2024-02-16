@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+
+<a href="https://github.com/djamn">
+    <img src="https://github-stats-alpha.vercel.app/api?username=djamn&cc=f1f1f1">
+</a>
+
 
 <!--
 **lukita69/lukita69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
