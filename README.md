@@ -7,13 +7,13 @@
 </h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<p align=center>
+  <div align=center>
 <h1 align="center">
   <a href="https://github.com/lukita69">
       <img src="https://github-stats-alpha.vercel.app/api?username=lukita69&cc=f1f1f1">
   </a>
 </h1>
-<p align=center>
-  <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=lukita69&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
