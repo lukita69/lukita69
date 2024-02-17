@@ -6,14 +6,12 @@
   </a>
 </h1>
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <h1 align="center">
   <a href="https://github.com/lukita69">
       <img src="https://github-stats-alpha.vercel.app/api?username=lukita69&cc=f1f1f1">
   </a>
 </h1>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
