@@ -58,7 +58,7 @@
   <div align=center>
     <h1 align=center>
       <a href="https://github.com/lukita69">
-          <img src="https://github-stats-alpha.vercel.app/api?username=lukita69&cc=f1f1f1">
+          <img src="https://github-stats-alpha.vercel.app/api?username=lukita69&cc=61dafb">
       </a>
     </h1>
     <a href="https://github.com/lukita69/github-readme-streak-stats" title="Go to Source">
