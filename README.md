@@ -6,6 +6,14 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/luka-kravos-6906632a2/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.xing.com/profile/Luka_Kravos/web_profiles" title="XING Profile"><img width="22" src="images/xing.svg"> XING</a></code>
+  <!--<code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
+</h5>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
   <div align=center>
