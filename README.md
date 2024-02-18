@@ -62,10 +62,10 @@
       </a>
     </h1>
     <a href="https://github.com/lukita69/github-readme-streak-stats" title="Go to Source">
-      <img align=left width=480 src="https://streak-stats.demolab.com/?user=lukita69&theme=react&border=61dafb&hide_border=true" alt="lukita69" />
+      <img align=left width=310 src="https://streak-stats.demolab.com/?user=lukita69&theme=react&border=61dafb&hide_border=true" alt="lukita69" />
     </a>
     <a href="https://github.com/lukita69/github-readme-stats" title="Go to Source">
-      <img align=right width=460 src="https://github-readme-stats.vercel.app/api?username=lukita69&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align=right width=290 src="https://github-readme-stats.vercel.app/api?username=lukita69&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
