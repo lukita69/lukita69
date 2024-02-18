@@ -3,7 +3,7 @@
 <h1 align="center">
   <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lukita....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Luka....;Nice+to+meet+you!&center=true&size=30">
   </a>
   </div>
   <div>
@@ -77,6 +77,13 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukita69&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 <!--
